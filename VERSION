@@ -1,0 +1,5 @@
+commit 75ff8d48b5f08e3cd5dc18838dc500cd5c3a4514
+Author: Chris Joel <cdata@google.com>
+Date:   Fri Apr 3 09:31:32 2020 -0700
+
+    Add before-deploy step for docs
